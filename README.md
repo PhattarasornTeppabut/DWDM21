@@ -90,9 +90,11 @@ Data Warehouse &amp; Data Mining 2021
   
  
  
- * สารบัญ Github
+* สารบัญ Github
  
- * บทที่2 [Data101](https://github.com/PhattarasornTeppabut/DWDM21/blob/main/Data101(Chapter2).ipynb)
+ 
+ * บทที่2
+ * [Data101](https://github.com/PhattarasornTeppabut/DWDM21/blob/main/Data101(Chapter2).ipynb)
    * Basic phython
     * Casting int() float() str()
     * Data Structure
