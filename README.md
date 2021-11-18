@@ -12,7 +12,7 @@ Data Warehouse &amp; Data Mining 2021
 
 ![เกณฑ์คะแนน](DWDM21.jpg)
 
-* สารบัญเนื้อหา
+# สารบัญเนื้อหา
 
 * บทที่1 [Introduction](https://github.com/PhattarasornTeppabut/DWDM21/blob/main/Chapter%201.pdf)
   * What is Data Mining
@@ -60,7 +60,7 @@ Data Warehouse &amp; Data Mining 2021
   * Apriori: A Candidate Generation & Test Approach
   * The Apriori Algorithm- An Example
 
-บทที่8 [Classification: Basic Concepts](https://github.com/PhattarasornTeppabut/DWDM21/blob/main/Chapter-8.pdf)
+* บทที่8 [Classification: Basic Concepts](https://github.com/PhattarasornTeppabut/DWDM21/blob/main/Chapter-8.pdf)
   * Supervised VS. Unspervised Learning(1)
   * Supervised VS. Unspervised Learning(2)
   * Prediction Problems: Classification vs. Numeric Prediction
@@ -74,13 +74,13 @@ Data Warehouse &amp; Data Mining 2021
   * Model Evaluation and Selection
   * [การบ้านคำนวณมือ](https://github.com/PhattarasornTeppabut/DWDM21/blob/main/623020531-5.pdf)
   
-บทที่9 [Classification: Advanced Methods](https://github.com/PhattarasornTeppabut/DWDM21/blob/main/Chapter-9.pdf)
+* บทที่9 [Classification: Advanced Methods](https://github.com/PhattarasornTeppabut/DWDM21/blob/main/Chapter-9.pdf)
   * Neural Network for Classification
   * Discussion on the K-NN Algorithm
   * Algorithm: perceptron-Learning-Rule (จากหนังสือปัญญาประดิษฐ์ บุญเสริมAI)
   * ตัวอย่างการเรียนฟังก์ชัน AND และ XOR ด้วยกฎเรียนรู้เพอร์เซปตรอน
 
-บทที่10 [Cluter Analysis: Basic Concepts and Methods](https://github.com/PhattarasornTeppabut/DWDM21/blob/main/Chapter-10.pdf)
+* บทที่10 [Cluter Analysis: Basic Concepts and Methods](https://github.com/PhattarasornTeppabut/DWDM21/blob/main/Chapter-10.pdf)
   * What Is Cluter Analysis
   * What Is Good Clutering
   * The K-Means Clutering Methods
@@ -88,7 +88,7 @@ Data Warehouse &amp; Data Mining 2021
   * Discussion on the K-Means Methods
   * VAriations of K-Means
   
-* สารบัญ Github
+# สารบัญ Github
  
  * บทที่2
  * [Data101](https://github.com/PhattarasornTeppabut/DWDM21/blob/main/Data101(Chapter2).ipynb)
