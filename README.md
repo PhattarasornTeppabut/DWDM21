@@ -88,10 +88,7 @@ Data Warehouse &amp; Data Mining 2021
   * Discussion on the K-Means Methods
   * VAriations of K-Means
   
- 
- 
 * สารบัญ Github
- 
  
  * บทที่2
  * [Data101](https://github.com/PhattarasornTeppabut/DWDM21/blob/main/Data101(Chapter2).ipynb)
@@ -108,10 +105,12 @@ Data Warehouse &amp; Data Mining 2021
     * Function
       * ลักษณะของ input(parameter)
     * HW4
+    
 * [Data102](https://github.com/PhattarasornTeppabut/DWDM21/blob/main/Data102(Chapter2).ipynb)
   * .head() .tail()
   * Boxplot
   * Time Series Plot
+ 
 * [Data Visualization](https://github.com/PhattarasornTeppabut/DWDM21/blob/main/Data_Visualization.ipynb)
   * Visualization
     * Scatter plot
@@ -120,6 +119,7 @@ Data Warehouse &amp; Data Mining 2021
       * Grouped Barchart
       * Stacked Barchart เปรียบเทียบกรุ๊ปใหญ่ กับกรุ๊ปย่อยๆ
     * Histogram ดูความถี่ของข้อมูล
+    
 * [Distance Numpy](https://github.com/PhattarasornTeppabut/DWDM21/blob/main/Distance_Numpy.ipynb)
   * Numpy Array
     * สร้าง numpy array
